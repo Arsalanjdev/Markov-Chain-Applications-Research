@@ -4,4 +4,5 @@ The repo also contains introductionary notes for those who are new to Markov Cha
 
 The respository also includes two sub-projects in which I maintain in their respective respository:
 1. [Part-Of-Speech tagging for Persian using a Hidden Markov Model](https://github.com/Arsalanjdev/POS-HMM-Farsi)
-2. [Automated driving in highway env with CNN and DQN]https://github.com/Arsalanjdev/Automated-driving-in-highway-env-with-CNN-DQN
+2. [Automated driving in highway env with CNN and DQN](https://github.com/Arsalanjdev/Automated-driving-in-highway-env-with-CNN-DQN)
+
